@@ -1,7 +1,15 @@
-*.o
+# compiled binaries
 *.out
+*.o
 *.exe
 a.out
+*.bin
+*.elf
+*.hex
+
+# Editor / OS
 .vscode/
 .DS_Store
+
+# Build dirs
 build/
